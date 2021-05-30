@@ -1,6 +1,6 @@
 Similar a https://github.com/diegochavezcarro/tracing-micros/
 
-Pero utilizando Gin Tonic. Se intento usar librerias de opentracing que no agregaron nada.(https://github.com/opentracing-contrib/go-gin)
+Pero utilizando Gin Gonic. Se intento usar librerias de opentracing que no agregaron nada.(https://github.com/opentracing-contrib/go-gin)
 
 docker build -t diegochavezcarro/micro-gogin-tracing1:v3 .
 
